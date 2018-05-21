@@ -12,6 +12,7 @@ Created skew variables by subtracting defensive factors from offensive factors
 
 3,7,11,15 > advance on: if win 3 or more=into semi, if 7 or more= into conf final, if 11 or more=into finals, if 15 = champions
 
+Removed Pace and Ftr variables
 
 VARIABLES:
 
